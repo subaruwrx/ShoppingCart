@@ -9,7 +9,7 @@ without tiring themselves standing in long lines for minutes.
 
 Below is the domain Domain of the  Shopping cart System that I want to develop.
 ![Domain Model](/model.png)
- ## Description of the Domain Model and its Invariants
+## Description of the Domain Model and its Invariants
 
 one offer can be offerd for many products ,an order can have one to many orderDetails and orderDetails
 
@@ -36,7 +36,7 @@ browse items, add or remove items from shopping cart, do checkout.
 
 ## Type of Users and Fuctions they allowed to do
 
-##Administrator
+## Administrator
 The Admin can login the System, Admin can create categories, Admin can create subcategories, Admin can upload products and Admin can upload product features
 
 ##Buyer
